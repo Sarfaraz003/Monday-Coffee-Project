@@ -1,2 +1,2 @@
 # Monday-Coffee-Project
-SQL Project
+SQL Project 1
